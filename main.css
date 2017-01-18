@@ -76,3 +76,12 @@ p.width{
   padding-left: 570px;
   padding-right: 570px;
 }
+.invisible{
+   background:transparent;
+    border:none;
+    outline:none;
+    display:block;
+    height:50px;
+    width:50px;
+    cursor:pointer;
+}
