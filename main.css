@@ -4,6 +4,7 @@
     position:fixed;
     right:93%;
     top:0%;
+    z-index: 1;
 
 }
 
@@ -51,6 +52,7 @@
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
+    z-index: 2;
        }
     .sidenav a {
     padding: 8px 8px 8px 32px;
